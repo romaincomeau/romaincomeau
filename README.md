@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @romaincomeau
-- 👀 I’m interested in ... learning about programming
-- 🌱 I’m currently learning ... <html> and styling a webage using {CSS}
-- 💞️ I’m looking to collaborate on ... learning me stuff
-- 📫 How to reach me ... do <strong>NOT</strong> contact me.
+- 👀 I’m interested in ... python, unix, freebsd
+- 🌱 I’m currently learning ... python
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... reach my secretary
 
 <!---
 romaincomeau/romaincomeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
