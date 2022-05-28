@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @romaincomeau
+- 👋 <h1>Hi, I’m @romaincomeau</h1>
 - 👀 I’m interested in ... python, unix, freebsd
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... 
