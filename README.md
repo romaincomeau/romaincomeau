@@ -1,8 +1,6 @@
 - 👋 <h1>Hi, I’m @romaincomeau</h1>
-- 👀 I’m interested in ... python, unix, freebsd
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... reach my secretary
+- 👀 c, aws, node, javascript, python, freebsd
+
 
 <!---
 romaincomeau/romaincomeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
